@@ -40,3 +40,22 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/gradlew
+/gradlew.bat
+
+
+build/*
+bin/*
+out/*
+gradle*
+.gradle/*
+.idea/*
+.jpb/*
+node_modules/*
+.DS_Store
+pem/*
+#.properties
+#*.properties
+*.env
+.ebextensions/*
+/out/
